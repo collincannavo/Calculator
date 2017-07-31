@@ -10,6 +10,8 @@ import UIKit
 
 class CalcViewController: UIViewController, UITextViewDelegate, UITextFieldDelegate {
     
+    // Add a scroll view so people can scroll down to enter their information
+    
     @IBOutlet weak var monthlyPaymentLabel: UILabel!
     @IBOutlet weak var percentageLabel: UILabel!
     @IBOutlet weak var interestRateLabel: UILabel!
