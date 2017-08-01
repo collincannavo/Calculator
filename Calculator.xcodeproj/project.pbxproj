@@ -15,6 +15,7 @@
 		B67315C41F1D62B10027BFE6 /* CalculatorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B67315C31F1D62B10027BFE6 /* CalculatorController.swift */; };
 		B67315EC1F1E83EA0027BFE6 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = B67315EB1F1E83EA0027BFE6 /* Colors.swift */; };
 		B67315EE1F1EC0B10027BFE6 /* CalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B67315ED1F1EC0B10027BFE6 /* CalcViewController.swift */; };
+		B6A28AE91F300E7F00786B97 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A28AE81F300E7F00786B97 /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B67315C31F1D62B10027BFE6 /* CalculatorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorController.swift; sourceTree = "<group>"; };
 		B67315EB1F1E83EA0027BFE6 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		B67315ED1F1EC0B10027BFE6 /* CalcViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalcViewController.swift; sourceTree = "<group>"; };
+		B6A28AE81F300E7F00786B97 /* CustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 		B67315BE1F1D59630027BFE6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				B6A28AE81F300E7F00786B97 /* CustomView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				B67315EE1F1EC0B10027BFE6 /* CalcViewController.swift in Sources */,
 				B67315EC1F1E83EA0027BFE6 /* Colors.swift in Sources */,
 				B67315A81F1D59190027BFE6 /* AppDelegate.swift in Sources */,
+				B6A28AE91F300E7F00786B97 /* CustomView.swift in Sources */,
 				B67315C21F1D62030027BFE6 /* Calculator.swift in Sources */,
 				B67315C41F1D62B10027BFE6 /* CalculatorController.swift in Sources */,
 			);

@@ -118,7 +118,7 @@ class CalcViewController: UIViewController, UITextViewDelegate, UITextFieldDeleg
         tradeValueTextField.textAlignment = .center
         tradeValueTextField.backgroundColor = .white
         tradeValueTextField.textColor = UIColor(red: 39 / 255.0, green: 19 / 255.0, blue: 166 / 255.0, alpha: 1.0)
-        tradeValueTextField.font = UIFont.init(name: "Arial", size: 20)
+        tradeValueTextField.font = UIFont.init(name: "Helvetica", size: 20)
         tradeValueTextField.delegate = self
         calculateButton.titleLabel?.font = UIFont.init(name: "Marker Felt", size: 33)
         
